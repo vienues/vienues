@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @hwubyte
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+## About me
 
-<!---
-hwubyte/hwubyte is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Skilled web developer with expertise in JavaScript and TypeScript and over 9 years of experience in software development. Proven ability to lead complex projects from conception to launch, managing dependencies and timelines to ensure timely delivery. Experienced in selecting appropriate tools and technologies to deliver exceptional user experiences while staying within project budgets. Successfully created 10+ web applications using TypeScript, Express, and React.
+
